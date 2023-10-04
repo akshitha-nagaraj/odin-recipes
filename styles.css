@@ -1,0 +1,33 @@
+/* styles.css*/
+
+body{
+    background-color: rgb(222, 184, 135);
+    font-family: "Geneva", sans-serif;
+    color: brown;
+    text-align: center;
+    height: fit-content;
+}
+
+h4 {
+    font-weight: 700px;
+}
+
+h1 {
+    font-family: "Architect's Daughter", "Geneva", sans-serif;
+    text-align: center;
+}
+
+.section{
+    display:inline-block;
+    background: rgba(248, 151, 127, 0.603);
+    border-radius: 15px;
+    padding: 20px;
+    margin: 10px;
+    width: 300px;
+    height: max-content; 
+}
+
+p{
+    background: rgba(248, 151, 127, 0.603);
+    color: brown;
+}
